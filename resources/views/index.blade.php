@@ -1,4 +1,5 @@
 @extends('layouts.base')
+<!-- Julian Andres Martinez Avila Semestre: Cuarto NRC: Framework 66988 -->
 
 @section('content')
 <div class="row">
